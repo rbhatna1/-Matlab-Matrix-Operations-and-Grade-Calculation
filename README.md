@@ -1,4 +1,4 @@
-# -Matlab-Matrix-Operations-and-Grade-Calculation
+# Matlab-Matrix-Operations-and-Grade-Calculation
 
 ## Overview
 This MATLAB script performs various matrix operations and calculates final marks based on user input. It includes operations such as creating matrices, displaying specific rows and columns, calculating sums, and performing both array and matrix multiplications. Additionally, it calculates the final marks for a course based on assignments, quizzes, and the final exam.
